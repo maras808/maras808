@@ -1,18 +1,3 @@
-  <details>
-  <summary><b>Navigation</b></summary>
-
-- [About me](#-about-me)
-  - [Work experience](#-work-experience)
-  - [Interests and hobbies](#-interests-and-hobbies)
-  - [Currently learning](#-currently-learning)
-- [Technology stack](#-technology-stack)
-  - [Software development](#-software-development)
-  - [Self-hosting](#%EF%B8%8F-self-hosting)
-- [About the repositories](#%EF%B8%8F-about-the-repositories)
-    </details>
-
-#
-
 <div>
 <a href="https://github.com/maras808">
   <img alt="Static Badge" src="https://img.shields.io/badge/company%3A-%23fff?style=for-the-badge">
